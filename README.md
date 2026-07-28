@@ -390,7 +390,6 @@ detection-engineering-handbook/
 │   ├── papers.md
 │   └── tools.md
 │
-├── roadmap.md
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
@@ -433,38 +432,6 @@ Additional references are provided throughout the handbook.
 ---
 
 # Contributing
-
-```mermaid
-flowchart LR
-
-ThreatIntel["Threat Intelligence"]
-
-ThreatIntel -->
-
-DetectionReq["Detection Requirements"]
-
-DetectionReq -->
-
-YARA["YARA / Sigma"]
-
-YARA -->
-
-Testing["Testing & Validation"]
-
-Testing -->
-
-Deployment["Deployment"]
-
-Deployment -->
-
-Monitoring["Monitoring"]
-
-Monitoring -->
-
-Improvement["Continuous Improvement"]
-
-Improvement -.feedback.-> ThreatIntel
-```
 
 Community feedback is always welcome.
 
