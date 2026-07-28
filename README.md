@@ -363,12 +363,7 @@ V --> G["Future"]
 detection-engineering-handbook/
 │
 ├── handbook/
-│   ├── Detection_Engineering_Handbook.pdf
-│   ├── figures/
-│   └── diagrams/
-│
-├── chapters/
-│   ├── part-01/
+│   ├── Detection Engineering Handbook: PART 1 - YARA.pdf
 │   ├── part-02/
 │   ├── part-03/
 │   ├── part-04/
