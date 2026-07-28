@@ -2,10 +2,9 @@
 
 # Detection Engineering Handbook
 
-### Building Better Detection Through Intelligence
+**Building Better Detection Through Intelligence**
 
-An open handbook exploring modern Detection Engineering, YARA, Sigma, Threat Intelligence and practical detection strategies.
-
+An open handbook exploring the principles and practices of modern Detection Engineering. From YARA and Sigma to Threat Intelligence, MITRE ATT&CK, Detection-as-Code, and AI-assisted detection, this repository provides a structured learning path through the technologies, methodologies, and strategies used to build effective detection capabilities.
 
 ```mermaid
 graph TD
@@ -435,8 +434,6 @@ If you identify inaccuracies, have suggestions for improvement or would like to 
 ---
 
 # License
-
-This project is licensed under the MIT License.
 
 The handbook content remains Copyright © 2026 OrchiCyb.
 
