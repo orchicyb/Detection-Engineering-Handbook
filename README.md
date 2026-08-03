@@ -360,8 +360,6 @@ V --> G["Future"]
 
 ```text
 detection-engineering-handbook/
-│
-├── handbook/
 │   ├── Detection Engineering Handbook: PART 1 - YARA.pdf
 │   ├── part-02/
 │   ├── part-03/
@@ -371,29 +369,10 @@ detection-engineering-handbook/
 │   ├── part-07/
 │   └── part-08/
 │
-├── examples/
-│   ├── yara/
-│   ├── sigma/
-│   ├── suricata/
-│   ├── snort/
-│   └── datasets/
-│
-├── resources/
-│   ├── references.md
-│   ├── books.md
-│   ├── papers.md
-│   └── tools.md
-│
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
 ```
-
----
-
-# Download
-
-The latest handbook is available in the **handbook/** directory.
 
 ---
 
