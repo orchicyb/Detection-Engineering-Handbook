@@ -2,9 +2,13 @@
 
 # Detection Engineering Handbook
 
-**Building Better Detection Through Intelligence**
-
 An open handbook exploring the principles and practices of modern Detection Engineering. From YARA and Sigma to Threat Intelligence, MITRE ATT&CK, Detection-as-Code, and AI-assisted detection, this repository provides a structured learning path through the technologies, methodologies, and strategies used to build effective detection capabilities.
+
+
+![Status](https://img.shields.io/badge/Status-In%20Development-6e56cf)
+![License](https://img.shields.io/badge/License-MIT-success)
+![Research](https://img.shields.io/badge/Category-Detection%20Engineering-black)
+
 
 ```mermaid
 graph TD
@@ -47,17 +51,6 @@ AI --> LLMs
 AI --> DetectionRecommendations
 AI --> HumanValidation
 ```
-
----
-
-Created by **OrchiCyb**
-
-*Independent Cybersecurity Research Lab*
-
-![Status](https://img.shields.io/badge/Status-In%20Development-6e56cf)
-![License](https://img.shields.io/badge/License-MIT-success)
-![Research](https://img.shields.io/badge/Category-Detection%20Engineering-black)
-
 
 </div>
 
