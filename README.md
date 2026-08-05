@@ -369,17 +369,6 @@ detection-engineering-handbook/
 
 ---
 
-# Repository Goals
-
-This repository aims to:
-
-- provide high-quality educational material
-- bridge theory and practical Detection Engineering
-- encourage community learning
-- promote evidence-based cybersecurity research
-
----
-
 # References
 
 This handbook draws upon publicly available resources including:
